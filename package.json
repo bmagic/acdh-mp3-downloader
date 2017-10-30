@@ -1,0 +1,25 @@
+{
+  "name": "acdh-mp3-downloader",
+  "description": "ACDH.fr client",
+  "private": true,
+  "author": "Baptiste <balomosa@protonmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js",
+    "eslint": "node node_modules/eslint/bin/eslint main.js app --fix"
+  },
+  "dependencies": {
+    "app-module-path": "^2.2.0",
+    "async": "^2.5.0",
+    "mongodb": "^2.2.33",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.10.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
