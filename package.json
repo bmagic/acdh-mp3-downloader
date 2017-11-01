@@ -1,6 +1,6 @@
 {
   "name": "acdh-mp3-downloader",
-  "description": "ACDH.fr client",
+  "description": "ACDH.fr mp3 downloader",
   "private": true,
   "author": "Baptiste <balomosa@protonmail.com>",
   "license": "MIT",
